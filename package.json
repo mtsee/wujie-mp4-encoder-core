@@ -1,0 +1,50 @@
+{
+  "name": "wujie-video-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mtsee/wujie-mp4-encoder-core.git",
+  "author": "mantou <676015863@qq.com>",
+  "license": "GPLv3",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@douyinfe/semi-ui": "^2.44.0",
+    "@ffmpeg/core": "0.12.6",
+    "@ffmpeg/ffmpeg": "0.12.6",
+    "@ffmpeg/util": "^0.12.1",
+    "classnames": "^2.3.2",
+    "nanoid": "^4.0.2",
+    "p-limit": "^6.2.0",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-fast-compare": "^3.2.2",
+    "react-router": "^6.15.0",
+    "react-router-dom": "^6.15.0",
+    "uglify-js": "^3.19.3",
+    "undo-redo-manager2": "^1.0.4",
+    "webm-muxer": "^3.1.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-decorators": "^7.22.7",
+    "@babel/plugin-proposal-private-methods": "^7.18.6",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.27.2",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@types/react-router": "^5.1.20",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.0.3",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.3",
+    "prettier": "^3.0.0",
+    "vite": "^4.4.4",
+    "vite-plugin-clean": "^1.0.0",
+    "vite-plugin-commonjs": "^0.10.4",
+    "vite-plugin-imp": "^2.4.0",
+    "vite-plugin-mkcert": "^1.16.0"
+  }
+}
