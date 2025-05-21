@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/mtsee/wujie-mp4-encoder-core.git",
   "author": "mantou <676015863@qq.com>",
-  "license": "MIT",
+  "license": "OTHER",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
